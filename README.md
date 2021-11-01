@@ -1,2 +1,2 @@
 # xgboost_sales-deployment
-Implementação de algoritmo XGBoost em plataforma AWS Sagemaker. O modelo faz previsão de vendas.
+Implementation of XGBoost algorithm on AWS Sagemaker platform. The model forecasts sales.
